@@ -1,4 +1,4 @@
-# Information-Retrieval-using-KGs
+# Information Retrieval using KGs
 The problem statements is to formulate raw sentences into a knowledge graph using natural language processing and retrieve information from the same. In this process, if a person searches for any keyword which is present in the database, then the model should retrieve all the necessary nodes and create a knowledge graph out of it, so that it can be visualized by the user.
 
 ## Dataset used:
