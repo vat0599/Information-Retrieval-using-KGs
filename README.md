@@ -1,5 +1,5 @@
 # Information-Retrieval-using-KGs
-The problem statements is to formulate raw sentences into a knowledge graph using natural language processing and retrieve information for the same. In this process, if a person searches for any keyword which is present in the database, then the model should retrieve all the necessary nodes and create a knowledge graph out of it, so that it can be visualized by the user.
+The problem statements is to formulate raw sentences into a knowledge graph using natural language processing and retrieve information from the same. In this process, if a person searches for any keyword which is present in the database, then the model should retrieve all the necessary nodes and create a knowledge graph out of it, so that it can be visualized by the user.
 
 ## Dataset used:
 In this project, a custom dataset of 4300 lines is stored in a csv file. This file consists of a compilation of over 500 Wikipedia articles of varied topics. One thing to pay attention is this dataset is specifically prepared with exactly two entities – one subject and one object. The purpose of this formatting is for sentence segmentation which is seen in next section. This is just a sample dataset and there is no harm in using dataset from DBpedia or Wikidata or Freebase.
